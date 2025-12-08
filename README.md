@@ -1,6 +1,17 @@
 🚨 Fraud Detection Dashboard
 
-A full-stack application that detects and explains fraudulent financial transactions using Machine Learning and SHAP-based explainability. Includes secure user authentication, batch prediction, and an interactive dashboard UI.
+A full-stack application that detects and explains fraudulent financial transactions using Machine Learning and SHAP-based explainability. Includes secure user authentication, batch prediction, and an interactive dashboard UI. 
+
+📸 Screenshots 
+
+<img width="1897" height="838" alt="Screenshot 2025-12-08 152515" src="https://github.com/user-attachments/assets/ff58407b-87e1-4202-93ca-b371acb334de" />
+
+
+<img width="1880" height="836" alt="Screenshot 2025-12-08 152707" src="https://github.com/user-attachments/assets/b381d89e-4958-4bf0-8c7f-eb791aee4c5f" />
+
+
+<img width="1880" height="836" alt="Screenshot 2025-12-08 152707" src="https://github.com/user-attachments/assets/ec6db9dc-4ce6-4040-8c55-b4a61335b170" />
+
 
 📌 Features
 
