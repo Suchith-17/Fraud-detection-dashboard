@@ -10,7 +10,7 @@ A full-stack application that detects and explains fraudulent financial transact
 <img width="1880" height="836" alt="Screenshot 2025-12-08 152707" src="https://github.com/user-attachments/assets/b381d89e-4958-4bf0-8c7f-eb791aee4c5f" />
 
 
-<img width="1880" height="836" alt="Screenshot 2025-12-08 152707" src="https://github.com/user-attachments/assets/ec6db9dc-4ce6-4040-8c55-b4a61335b170" />
+<img width="1900" height="852" alt="Screenshot 2025-12-08 152628" src="https://github.com/user-attachments/assets/c4f2ba10-4910-4c9e-a455-6455b8a64757" />
 
 
 📌 Features
